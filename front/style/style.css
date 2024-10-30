@@ -1,0 +1,25 @@
+.geoseo_logo {
+	margin-top:20px;
+	text-align: center;
+}
+
+.geoseo_logo a {
+	display:inline-block;
+	height:auto;
+}
+
+.geoseo_logo img {
+	display:inline-block;
+	margin:10px;
+	width:auto;
+	max-height:50px;
+}
+
+.geoseo_logo .localgeosearch {
+	border-left:1px solid #efefef;
+}
+
+.geoseo_piwik {
+	height:0px !important;
+	overflow:hidden;
+}
